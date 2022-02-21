@@ -8,4 +8,4 @@ My current Projects:
 * A Terminal in python (terminal, posted)
 * And a few more GUI templates in electron (not posted yet)
 
-Yeah that was it! Bruh!
+And that was it! Thanks for visiting my profile!
