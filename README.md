@@ -1,7 +1,7 @@
 Welcome to my GitHub account!
 Here i post things in python, electron etc.
 
-My current Projects:
+My current projects:
  * DAVERIZED (game)
 
 __________________________________________________
