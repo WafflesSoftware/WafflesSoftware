@@ -2,8 +2,7 @@
 Here i post things in python, electron etc.
 
 ## My current projects
- * DAVERIZED (game)
- * 3DGR (game engine)
+  * my website
 
 __________________________________________________
 
