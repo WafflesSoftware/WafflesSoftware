@@ -3,6 +3,7 @@ Here i post things in python, electron etc.
 
 ## My current projects
   * my website
+  * PyInstaller GUI
 
 __________________________________________________
 
