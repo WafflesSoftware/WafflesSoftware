@@ -8,4 +8,6 @@ Here i post things in python, electron etc.
 
 __________________________________________________
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 And that's it! Thanks for visiting my profile!
