@@ -1,5 +1,5 @@
 # Welcome to my GitHub account! 👋
-I basically have nothing to say, so just look at some of my current projects.
+I basically have nothing to say, so just have a look at some of my current projects.
 
 ## My current projects
   * my website
